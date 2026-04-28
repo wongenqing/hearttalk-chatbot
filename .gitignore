@@ -1,0 +1,23 @@
+# Model files
+model/
+*.pt
+*.bin
+*.safetensors
+
+# Dataset
+data/
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Logs
+*.log
