@@ -2,28 +2,28 @@
 
 HeartTalk is an AI-powered mental health chatbot that detects user emotions and generates supportive responses.
 
-## Features
+## 🚀 Features
 
 * Emotion detection using NLP model
-* Real-time chatbot responses
-* Streamlit-based UI
+* AI-generated supportive responses
+* Real-time chat interface
 * Emotion tracking dashboard
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 * Python
 * Streamlit
 * Transformers (TinyLlama)
 * PyTorch
 
-## How to Run
+## ▶️ How to Run
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Notes
+## ⚠️ Note
 
 Model files are not included due to size. Please load your own trained model.
 
